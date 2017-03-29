@@ -50,3 +50,5 @@
   http://www.martyncurrey.com/arduino-atmega-328p-fuse-settings/
   
   http://www.codingwithcody.com/2011/06/25/arduino-default-fuse-settings/
+  
+  python -c "$(curl -fsSL https://raw.githubusercontent.com/platformio/platformio/master/scripts/get-platformio.py)"
